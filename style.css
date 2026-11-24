@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.contarner{
+    max-width: 1600px;
+    margin-top: 0 auto;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav,ul{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+button{
+    border-radius: 8px;
+}
+.case{
+    
+    justify-content: center;
+    width: 380px;
+    height: 551.5px;
+    padding-top: 20px;
+    gap: 15px;
+    angle: 0 deg;
+    opacity: 1;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;  
+}
+.icon{
+    background-color: orange;
+    border-radius: 10px;
+    display: flex;
+    gap: 100px;
+    width: 380px;
+    height: 75px;
+    
+}
+.ims{
+    width: 380;
+    height: 70;
+    padding-right: 50px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: center;
+}
+.icon,img{
+    justify-content: space-around;
+    width: 105 ;
+    height: 42;
+    gap: 5px;
+    angle: 0 deg;
+    opacity: 1;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: rgb(229, 66, 7);
+}
+.stars span{
+    display: flex;
+    justify-content: center;
+}
+.stars {
+    
+}
+.kld{
+    display: flex;
+    justify-content: center;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
